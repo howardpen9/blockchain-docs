@@ -2,7 +2,7 @@
 export default {
   github: "https://github.com/howardpen9/blockchain-docs", // link of the project repo
   siteGithub: "https://github.com/howardpen9/blockchain-docs", // link of the docs repo path
-  titleSuffix: " – Empty Set Dollar",
+  titleSuffix: "Blockchain 學習",
   nextLinks: true,
   prevLinks: true,
   search: true,
@@ -44,8 +44,8 @@ export default {
       />
     </React.Fragment>
   ),
-  // i18n: [
-  //   { locale: 'en', text: 'English' },
-  //   { locale: 'zh', text: '简体中文' },
-  // ],
+  i18n: [
+    { locale: "en", text: "English" },
+    { locale: "zh", text: "简体中文" },
+  ],
 };

@@ -1,0 +1,9 @@
+{
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js",
+  "/": "pages/index.js",
+  "/faqs/basics": "pages/faqs/basics.js",
+  "/faqs/price-mechanics": "pages/faqs/price-mechanics.js",
+  "/faqs/bonding": "pages/faqs/bonding.js"
+}
